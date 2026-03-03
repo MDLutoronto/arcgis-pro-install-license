@@ -1,7 +1,11 @@
 ---
 title: "Downloading, Installing, and Licensing ArcGIS Pro"
 layout: "home"
-description: ""
+description: "This tutorial goes over how to download, install, and license ArcGIS Pro with your UTORid. Please be advised that ArcGIS Pro is also available on library computers on the St George campus."
+staff:
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field 
+created_date: 2020-04-16
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -14,10 +18,12 @@ Please be advised that ArcGIS Pro is also [available on library computers](https
 Table of Contents
 -----------------
 
-[Downloading ArcGIS Pro](#Downloading)\|[Installing ArcGIS Pro](#Installing)\|[Licensing ArcGIS Pro](#Licensing)
+[Downloading ArcGIS Pro](#downloading)  
+[Installing ArcGIS Pro](#installing)    
+[Licensing ArcGIS Pro](#licensing)  
 
-Downloading ArcGIS Pro
-======================
+## Downloading ArcGIS Pro
+{: #downloading}
 
 1. Go to <https://utoronto.maps.arcgis.com/> and create/login to your ArcGIS account (select “ArcGIS Online (University of Toronto)” then sign in using your UTORid and password).
 2. Select your name in the top right\-hand corner of the screen. From the menu that appears, click My Settings.  
@@ -29,9 +35,8 @@ Downloading ArcGIS Pro
 5. The default option is to download the latest version of ArcGIS Pro. Leave it as is and click Download.  
 <img src='{{ '/assets/images/arcgispro_dl_007.png' | relative_url }}' alt='Download popup with default settings (ArcGIS Pro 2.5) and Download button' title='' width='400' height='345' />
 
-Installing ArcGIS Pro
-=====================
-
+## Installing ArcGIS Pro
+{: #installing}
  
 
 *Note: if you receive a message stating that you need to install the Microsoft .NET Framework 4\.8, please download it from this* [*.NET 4\.8 download page*](https://desktop.arcgis.com/en/system-requirements/latest/microsft-net-framework-downloads.htm) *and then follow this* [*video showing how to install .NET*](https://www.youtube.com/watch?v=RuKmzQZ-Qjw)*.*  
@@ -67,8 +72,8 @@ Installing ArcGIS Pro
 
  
 
-Licensing ArcGIS Pro
-====================
+## Licensing ArcGIS Pro
+{: #licensing}
 
 1. Start ArcGIS Pro  
 <img src='{{ '/assets/images/arcgispro_license_001.png' | relative_url }}' alt='ArcGIS Pro startup logo' title='' width='400' height='195' />
@@ -85,4 +90,4 @@ Licensing ArcGIS Pro
 
 That’s it! You should now see your ArcGIS Online username appear in the top right corner.
 
-Technique: [Installation](/technique/installation) \| Tools: [ArcGIS](/tools/arcgis), [ArcGIS Pro](/taxonomy/term/70)**Date Created:** 2020\-04\-16**Updated:** 2025\-10\-06
+Technique: [Installation](https://mdl.library.utoronto.ca/technique/installation) \| Tools: [ArcGIS](https://mdl.library.utoronto.ca/tools/arcgis), [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70)
