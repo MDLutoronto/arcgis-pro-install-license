@@ -5,6 +5,9 @@ description: "This tutorial goes over how to download, install, and license ArcG
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field 
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white 
 created_date: 2020-04-16
 permalink: "/"  #! Remove this if not the homepage
 ---
