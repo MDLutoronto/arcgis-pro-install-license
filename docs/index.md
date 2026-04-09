@@ -92,5 +92,3 @@ Table of Contents
 <img src='{{ '/assets/images/arcgispro_license_006.png' | relative_url }}' alt='Ignoring the warning popup' title='' width='400' height='199' />
 
 That’s it! You should now see your ArcGIS Online username appear in the top right corner.
-
-Technique: [Installation](https://mdl.library.utoronto.ca/technique/installation) | Tools: [ArcGIS](https://mdl.library.utoronto.ca/tools/arcgis), [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70)
