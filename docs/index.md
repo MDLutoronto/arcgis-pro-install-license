@@ -81,9 +81,9 @@ Table of Contents
 1. Start ArcGIS Pro  
 <img src='{{ '/assets/images/arcgispro_license_001.png' | relative_url }}' alt='ArcGIS Pro startup logo' title='' width='400' height='195' />
 2. ArcGIS Pro will ask you to sign in using ArcGIS Online account information. **Click on Your ArcGIS organization's URL**.  
-<img src='{{ '/assets/images/image_69.png' | relative_url }}' alt='ArcGIS sign-in dialog. Two options: 'ArcGIS login' or 'Your ArcGIS organization's URL'.' title='' width='420' height='333' />
+<img src='{{ '/assets/images/image_69.png' | relative_url }}' alt="ArcGIS sign-in dialog. Two options: 'ArcGIS login' or 'Your ArcGIS organization's URL'." title='' width='420' height='333' />
 3. Type in **utoronto** next to .maps.arcgis.com  
-<img src='{{ '/assets/images/arcgispro_license_003.png' | relative_url }}' alt='Adding utoronto to the organization's URL' title='' width='400' height='317' />
+<img src='{{ '/assets/images/arcgispro_license_003.png' | relative_url }}' alt="Adding utoronto to the organization's URL" title='' width='400' height='317' />
 4. Click on ArcGIS Online (University of Toronto)  
 <img src='{{ '/assets/images/arcgispro_license_004.png' | relative_url }}' alt='Clicking on ArcGIS Online (University of Toronto) sign in option' title='' width='400' height='287' />
 5. Using your UTORid to login  
@@ -92,3 +92,5 @@ Table of Contents
 <img src='{{ '/assets/images/arcgispro_license_006.png' | relative_url }}' alt='Ignoring the warning popup' title='' width='400' height='199' />
 
 That’s it! You should now see your ArcGIS Online username appear in the top right corner.
+
+**Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [ArcGIS](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS), [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
