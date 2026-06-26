@@ -93,4 +93,4 @@ Table of Contents
 
 That’s it! You should now see your ArcGIS Online username appear in the top right corner.
 
-**Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [ArcGIS](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS), [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
+**Technique:** [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
