@@ -16,7 +16,7 @@ permalink: "/"  #! Remove this if not the homepage
 
 This tutorial goes over how to download, install, and license ArcGIS Pro with your UTORid.
 
-Please be advised that ArcGIS Pro is also [available on library computers](https://mdl.library.utoronto.ca/technology/computers-with-gis-software) on the St George campus.
+Please be advised that ArcGIS Pro is also [available on library computers](https://faq.library.utoronto.ca/faq/where-can-i-find-computers-gis-software?_gl=1*1ecewc2*_ga*MjE0MTczMTE2LjE3OTEzODI2MDE.*_ga_N97V7GPQQJ*czE3OTEzODI2MDEkbzEkZzEkdDE3OTEzODczMjMkajYwJGwwJGgw) on the St George campus.
 
 Table of Contents
 -----------------
